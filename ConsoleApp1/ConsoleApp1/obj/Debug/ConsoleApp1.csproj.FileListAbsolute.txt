@@ -1,0 +1,13 @@
+C:\Users\chanb\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\chanb\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\chanb\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\chanb\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\chanb\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\chanb\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\chanb\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\WebDriver.dll
+C:\Users\chanb\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\chanb\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\chanb\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\chanb\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\chanb\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\chanb\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\WebDriver.Support.dll
